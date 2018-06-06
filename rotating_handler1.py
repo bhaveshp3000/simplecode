@@ -2,7 +2,6 @@ from __future__ import print_function
 import math
 import logging
 import logging.handlers
-
 logger = logging.getLogger('mortgage')
 
 
